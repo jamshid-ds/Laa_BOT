@@ -38,5 +38,6 @@ PDF FILES CLAIMED FROM
 TEST (HOW TO WORK @[LAABOT](https://t.me/laassitantbot))
 <br>
 
-![PHOTO](https://github.com/jamshid-ds/Laa_BOT/assets/117648241/0a9b6350-1e91-4715-a005-f3d31031c60a)
+!![image](https://github.com/jamshid-ds/Laa_BOT/assets/117648241/fefe9fb1-cbf3-45e8-bbc1-51aaabac2310)
+
 
