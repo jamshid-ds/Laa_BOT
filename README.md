@@ -16,3 +16,9 @@ PIP PACKAGES
 <br>-langchain-community
 <br>-pypdf
 <br>-gtts
+<br>
+<br>
+BOT adress - https://t.me/laassitantbot
+<br>
+Developers - https://github.com/jamshid-ds and https://github.com/farruhpy
+<br>
