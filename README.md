@@ -26,6 +26,7 @@ Developers - https://github.com/jamshid-ds and https://github.com/farruhpy
 PDF FILES CLAIMED FROM 
 <br>
 <br>
-- deliver.latoken.com/about, 
+
+- [LATOKEN ABOUT](https://deliver.latoken.com/about), 
 <br>
-- deliver.latoken.com/hackathon
+- [LATOKEN HACKATHON](https://deliver.latoken.com/hackathon)
