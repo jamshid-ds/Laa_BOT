@@ -22,3 +22,10 @@ BOT adress - https://t.me/laassitantbot
 <br>
 Developers - https://github.com/jamshid-ds and https://github.com/farruhpy
 <br>
+<br>
+PDF FILES CLAIMED FROM 
+<br>
+<br>
+- deliver.latoken.com/about, 
+<br>
+- deliver.latoken.com/hackathon
