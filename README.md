@@ -31,3 +31,12 @@ PDF FILES CLAIMED FROM
 <br>
 
 - [LATOKEN HACKATHON](https://deliver.latoken.com/hackathon)
+
+<br>
+<br>
+
+TEST (HOW TO WORK @[LAABOT](https://t.me/laassitantbot))
+<br>
+
+![PHOTO](https://github.com/jamshid-ds/Laa_BOT/assets/117648241/0a9b6350-1e91-4715-a005-f3d31031c60a)
+
