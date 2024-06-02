@@ -1,4 +1,4 @@
-# Laa_BOT
+# LATOKEN AI BOT
 Made for the Latoken Company hackathon. A Russian-language bot that provides information about Latoken
 <br>
 <br>
